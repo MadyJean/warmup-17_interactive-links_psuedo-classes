@@ -1,0 +1,16 @@
+.box{
+    height:100px;
+    width:200px;
+    background-color:rgb(46, 128, 101);
+    box-shadow: 5px 10px rgb(9, 84, 92);
+    transition: all 200ms;
+}
+.box:hover{
+    height:200px;
+    width:400px;
+    background-color:rgb(87, 173, 199);
+    box-shadow: 10px 20px 10px rgb(43, 50, 92);
+}
+.box:active{
+    background-color: rgb(161, 137, 224);
+}

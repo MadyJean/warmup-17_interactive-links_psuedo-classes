@@ -1,0 +1,25 @@
+body{
+    margin:0;
+}
+a{
+    color:rgb(4, 106, 63);
+}
+a:link{
+    color:rgb(131, 131, 221);
+    text-decoration:wavy;
+}
+a:visited{
+    color:rgb(107, 14, 93);
+}
+a:hover{
+    color:aquamarine;
+    font-size: larger;
+}
+a:active{
+    color:rgb(50, 42, 165);
+}
+a:focus{
+    color:rgb(64, 205, 94);   
+    outline: 2px solid teal; 
+    font-size:larger;  
+}
